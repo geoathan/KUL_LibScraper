@@ -1,4 +1,4 @@
-package KUL_Library.Occupancy.Scraper;
+package KUL_Library_Occupancy_Scraper;
 
 import java.io.File;
 import java.io.FileNotFoundException;
